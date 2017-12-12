@@ -26,7 +26,7 @@ namespace TechJobs.ViewModels
         // View title
         //public string Title { get; set; } = "";
 
-        public SearchJobsViewModel()
+        /*public SearchJobsViewModel()
         {
             // Populate the list of all columns
 
@@ -38,6 +38,6 @@ namespace TechJobs.ViewModels
             }
 
 
-        }
+        }*/
     }
 }
